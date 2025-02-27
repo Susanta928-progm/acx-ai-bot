@@ -1,38 +1,38 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
-    BOT_ID = 0
+    API_ID = 21134445
+    API_HASH = "231c18ea7273824491d6bf05425ab74e"
+    BOT_TOKEN = "7556432651:AAGAkOVmj6C8WMYIyXuELbfF7Zhr30_XgMs"
+    BOT_NAME = "Cha Hae-in"
+    BOT_USERNAME = "@ChaHaeinxRobot"
+    BOT_ID = 6457262383
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
     
      
     #Git
-    GIT_USERNAME = "Your_Git_Username"
+    GIT_USERNAME = "susanta928-progm"
     GIT_URL_WITH_TOKEN = "https://Your_Git_Token@github.com/Your_Git_Username/Yumeko.git" 
 
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    OWNER_ID = 7763229951
+    OWNER_USERNAME = "THEHYPER_ACX"
+    SUPPORT_CHAT = -1002189849843
+    SUPPORT_CHAT_USERNAME = "ACX_ANIME_GROUP"
+    SUPPORT_CHAT_LINK = "https://t.me/ACX_ANIME_GROUP"
+    LOG_CHANNEL = -1002254111129
+    ERROR_LOG_CHANNEL = -1002476467166
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://files.catbox.moe/d69tm0.jpg"
-    START_IMG_URL = "https://files.catbox.moe/wybrme.jpg"
-    HELP_IMG_URL = "https://files.catbox.moe/j3tdbi.jpg"
-    ALIVE_IMG_URL = "https://files.catbox.moe/w4t9cj.jpg"
+    STATS_IMG_URL = "https://files.catbox.moe/by7ony.jpg"
+    START_IMG_URL = "https://files.catbox.moe/by7ony.jpg"
+    HELP_IMG_URL = "https://files.catbox.moe/by7ony.jpg"
+    ALIVE_IMG_URL = "https://files.catbox.moe/by7ony.jpg"
     
     
     #Database
